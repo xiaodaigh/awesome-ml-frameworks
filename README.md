@@ -3,9 +3,9 @@ List of Machine Learning Frameworks
 
 | Name                                                                          | Language | Notes                                                                 |
 |-------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------|
-| [PyCaret](https://towardsdatascience.com/announcing-pycaret-2-0-39c11014540e) | python   |                                                                       |
+| [PyCaret](https://towardsdatascience.com/announcing-pycaret-2-0-39c11014540e) | Python   |                                                                       |
 | [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)                     | Julia    | inspired by mlr3                                                      |
-| [Scikit-learn](https://scikit-learn.org/stable/)                              | python   |                                                                       |
+| [Scikit-learn](https://scikit-learn.org/stable/)                              | Python   |                                                                       |
 | [ScikitLearn.jl](https://scikit-learn.org/stable/)                            | Julia    | Julia implementation based of scikitlearn                             |
 | [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)                 | Julia    |                                                                       |
 | [Tidymodels](https://www.tidymodels.org/)                                     | R        | an umbrella ecosystem comprising of many packages; successor to caret |
