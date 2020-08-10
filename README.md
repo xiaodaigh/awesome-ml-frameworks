@@ -1,5 +1,5 @@
 # awesome-ml-frameworks
-Awesome (or not so) Machine Learning Frameworks
+List of Machine Learning Frameworks
 
 | Name                                                                          | Language | Notes                                                                 |
 |-------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------|
