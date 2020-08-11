@@ -11,4 +11,5 @@ List of Machine Learning Frameworks
 | [Tidymodels](https://www.tidymodels.org/)                                     | R        | an umbrella ecosystem comprising of many packages; successor to caret |
 | [mlr3](https://github.com/mlr-org/mlr3)                                       | R        | successor to mlr                                                      |
 | [mlr](https://mlr.mlr-org.com/)                                               | R        | superseded by mlr3                                                    |
-| [caret](https://topepo.github.io/caret/)                                      | R        | Majority of team is focusing on tidymodels                                              | [mlxtend](http://rasbt.github.io/mlxtend/) | Python | |
+| [caret](https://topepo.github.io/caret/)                                      | R        | Majority of team is focusing on tidymodels |
+| [mlxtend](http://rasbt.github.io/mlxtend/) | Python | |
