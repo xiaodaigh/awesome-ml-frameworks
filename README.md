@@ -14,3 +14,4 @@ List of Machine Learning Frameworks
 | [caret](https://topepo.github.io/caret/)                                      | R        | Majority of team is focusing on tidymodels |
 | [mlxtend](http://rasbt.github.io/mlxtend/) | Python | |
 | [H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) | Python, R, Java, Scala | Scalable, distributed ML platform; also includes AutoML|
+| [BetaML.jl](https://github.com/sylvaticus/BetaML.jl) | Julia | |
