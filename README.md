@@ -17,3 +17,4 @@ List of Machine Learning Frameworks
 | [BetaML.jl](https://github.com/sylvaticus/BetaML.jl) | Julia | |
 | Lale | Python | |
 | Lale.jl | Julia/Python | |
+| https://github.com/patrick-kidger/equinox | Python | Jax but pytorch style api. Innovations including filter selection which lets you select which parameters to differentiate through |
